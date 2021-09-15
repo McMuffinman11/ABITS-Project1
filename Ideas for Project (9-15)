@@ -1,0 +1,16 @@
+Main Idea:
+  Clicking starts a timer, clicking stops a timer. We make a game out of this.
+
+Gameplay Ideas:
+  Wait for a traffic light to turn green. Whoever clicks fast enough wins.
+      Include more conditions: not just time. Try to predict the color as well. This will determine score.
+      Color is randomly changing -- it's all based on chance. 
+        Difficulty level -- time would factor into one, different colors. Account for difficulty here with tournament mode.
+
+Include multiple games. Tournament mode that keeps a dynamic standardized score.
+         
+Design Ideas:
+  Main title screen that offers options to choose a mini game, settings, and exit. MAYBE a save/load game feature.
+
+  
+  
